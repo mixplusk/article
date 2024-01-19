@@ -1,10 +1,7 @@
-
 # topページ
 
 ## 開発
 ### windows
- - aaa
+- aaa
 ### linux
 - bbb
-
-## 
